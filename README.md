@@ -5,7 +5,8 @@ Minimal Zotero plugin that adds:
 - a sortable `Tag Number` column to the item tree
 - a `Tag Number` condition in Advanced Search
 
-Requires Zotero 7 or newer.
+Requires Zotero 7 or newer. The current release is marked compatible through
+Zotero 9.0.x.
 
 The item-tree column is hidden by default and can be enabled from the column
 picker. The advanced-search condition supports `is`, `is not`, `is less than`,
